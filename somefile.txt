@@ -6,3 +6,5 @@ add new lines
 
 
 now new line
+
+at 1:47am, zhaihotmail modified this file, in main branch, so you need to get historical commit point to compare changes
